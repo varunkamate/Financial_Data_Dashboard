@@ -40,3 +40,5 @@ Download both files.
 Open Financial Sample Dashboard.pbix in Power BI Desktop.
 
 Review visuals and apply filters to explore insights interactively.
+
+<img width="1134" height="641" alt="image" src="https://github.com/user-attachments/assets/6624dce2-7209-4043-8186-75b9e9af9794" />
