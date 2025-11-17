@@ -43,6 +43,6 @@ Review visuals and apply filters to explore insights interactively.
 
 <img width="1134" height="641" alt="image" src="https://github.com/user-attachments/assets/6624dce2-7209-4043-8186-75b9e9af9794" />
 
-==================================================================================
+===========================================================================
 
 <img width="1374" height="733" alt="Screenshot 2025-11-18 004608" src="https://github.com/user-attachments/assets/62316b3d-0a94-470f-8479-2c2fbeb92011" />
